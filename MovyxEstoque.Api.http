@@ -1,0 +1,6 @@
+@MovyxEstoque.Api_HostAddress = http://localhost:5075
+
+GET {{MovyxEstoque.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
