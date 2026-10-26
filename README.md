@@ -22,9 +22,7 @@ O projeto tem como objetivo substituir o controle manual realizado em planilhas 
 - Registro de períodos de fechamento de estoque.
 - Persistência de dados utilizando PostgreSQL.
 - Documentação e testes dos endpoints por meio do Swagger.
-
-> **Nota:** mantenha nesta seção somente as funcionalidades que já estão implementadas no projeto.
-
+- 
 ## 🛠️ Pré-requisitos
 
 Antes de executar a aplicação, certifique-se de ter instalado:
